@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TaskMap</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="title_names">
+        <item>UTD</item>
+        <item>WALMART</item>
+        <item>PATEL_BROTHERS</item>
+        <item>TARGET</item>
+        <item>LIBRARY</item>
+        <item>TOM_THUMB</item>
+    </string-array>
+</resources>
