@@ -21,7 +21,7 @@ Future Plan of Action
 
 Application Screenshots
 
-
+(Screenshots included in the Screenshots Folder)
 
 
 
